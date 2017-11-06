@@ -1,7 +1,7 @@
 # Android-Android 复习提高
 ## Java SE
 ### 八种基本数据类型
-八种基本数据类型 ：[http://www.cnblogs.com/1130136248wlxk/articles/5105524.html]
+八种基本数据类型 ：[http://www.cnblogs.com/1130136248wlxk/articles/5105524.html]  
 整型六种  
 byte  
     8位有符号 以2进制补码表示的整数 总共有256个数字 占位1字节  
